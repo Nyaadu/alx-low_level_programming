@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include "main.h"
 
-/**
- * print_to_98(int n) - prints all natural numbers
+/** 
+ * print_to_98 - prints all natural numbers
  * @n: number to print from
- * Return: ALways 0.
+ * Return: Always 0.
  *
  */
 
