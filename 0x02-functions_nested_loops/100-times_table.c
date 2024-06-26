@@ -15,7 +15,7 @@ void print_times_table(int n)
 			for (mult = 0; mult <= n; mult++)
 			{
 				prod = num * mult;
-				
+
 				if (mult != 0)
 				{
 					_putchar(',');
@@ -42,5 +42,4 @@ void print_times_table(int n)
 			_putchar('\n');
 		}
 	}
-}
 }
