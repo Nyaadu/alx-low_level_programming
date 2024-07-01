@@ -27,8 +27,9 @@ int _atoi(char *s)
 
 	for  (i = c - z; i < c; i++)
 	{
-		oi = oi + (((*(s + 1) - 48) * m);
+		oi = oi + (((*(s + 1) - 48) * m));
 		m /= 10;
 	}
+
 	return (oi * pn);
 }
