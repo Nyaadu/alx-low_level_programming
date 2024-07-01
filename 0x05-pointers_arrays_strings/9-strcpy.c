@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * *_strcpy -
+ * *_strcpy - copies string
  *
  * @dest: pointer 1
  * @src: pointer 2
