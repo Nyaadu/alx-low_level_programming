@@ -3,14 +3,14 @@
 
 /**
  * main - replace letters with numbers
- * @str: pointer to an array of words
  *
  * Return: s
  */
 
 int main(void)
 {
-	int i, j;
+	int i;
+	int j;
 
 	char alpha[80] = "aAeEoOtTlL";
 	char numbers[80] = "43071";
