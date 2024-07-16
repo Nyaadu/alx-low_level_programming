@@ -1,6 +1,7 @@
-#include "holberton.h"
+#include "main.h"
 #include <stdio.h>
 #include <stdlib.h>
+
 /**
  * alloc_grid - Initializes with 0 a matrix
  * @width: number of columns.
@@ -8,6 +9,7 @@
  *
  * Return: pointer to the matrix.
  */
+
 int **alloc_grid(int width, int height)
 {
 	int i, j;
