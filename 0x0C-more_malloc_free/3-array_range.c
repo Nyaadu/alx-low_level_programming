@@ -9,8 +9,9 @@
  * @max: string 2, concatenated to 1
  *
  * Return: pointer to the concatenated string.
+ *
+ */
 
-*/
 int *array_range(int min, int max)
 {
 	int *newArray;
